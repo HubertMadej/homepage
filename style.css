@@ -1,0 +1,37 @@
+p {
+  color: brown;
+}
+
+body {
+  background: #fefefe;
+}
+
+
+a {
+  color:darkblue;
+}
+
+.header-link {
+  color: green;
+}
+
+
+.good-html {
+  color: #1481ba;
+}
+
+.main-heading {
+  color: crimson;
+}
+.secondary-heading {
+    color: #1481ba;
+
+}
+
+.header {
+  background: #fefefe;
+}
+
+.special-heading {
+  color: darkgreen;
+}
